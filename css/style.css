@@ -1,0 +1,32 @@
+body {
+  font-family: 'Open Sans Condensed', arial;
+  
+}
+
+input:focus, select:focus, textarea:focus, button:focus {
+  outline: none;
+}
+
+h1 {
+  margin-top: 25px;
+  font-size: 40px;
+  margin-left: 60px;
+}
+
+
+
+.uk-navbar-container, .uk-margin, a {
+
+  background-color: #1d84e4 !important;
+}
+
+
+.uk-navbar-container, .uk-margin, li, a {
+
+    color: #ffffff !important; 
+  }
+
+  .info{
+
+    color: #1d84e4 !important;
+  }
